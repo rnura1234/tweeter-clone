@@ -37,6 +37,7 @@
   margin-bottom: 10px;
 }
 .post_body--img {
+  max-width: 500px;
   background-position: center;
   background-size: cover;
   border-radius: 10px;
